@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#mkdir testowy1
+
+STR="Hello World!"
+#INT=0
+echo $STR
+echo $INT
+
+
+if [ $INT  ]; then
+	echo "TAK"
+else 
+	echo "NIE"
+fi
