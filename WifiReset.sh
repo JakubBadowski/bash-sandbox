@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This is short script to restart your WiFi driver. Common issue in HP Compaq laptops.
+
 # Your driver name
 DRIVER="iwl3945"
 
