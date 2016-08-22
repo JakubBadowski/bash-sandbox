@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# There is simply piece of code to backup your databases
+# You can add it to your crontab
+
 echo -n DB root password: 
 read -s password
 echo
